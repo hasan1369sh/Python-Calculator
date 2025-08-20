@@ -43,3 +43,10 @@ Example Usage :
   Enter the base number: 4
   Enter the exponent: 3
   ✅ Result: 4 ^ 3 = 64.0
+
+
+
+👤 Author
+👤 Hassan SHerafat
+📧 hasansherafat5172@gmail.com
+🔗 GitHub Profile : https://github.com/hasan1369sh/
